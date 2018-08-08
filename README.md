@@ -4,6 +4,7 @@ This is Udacity Andorid Basic Miwok app.That show's how to create custom list ad
 
 It also show's that how to use AudioManager.OnAudioFocusChangeListener interface when audio FocusChanges then what todo.
 It also show's that how to use MediaPlayer api in Android.
+It also show's that how to Play audio by Clicking the item on ListView.
 
 ## Screenshots:-
 
